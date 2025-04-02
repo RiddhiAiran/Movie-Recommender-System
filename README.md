@@ -2,6 +2,10 @@
 
 This project is a **Content-Based Movie Recommender System** that suggests movies based on content similarity to a user-selected movie. It uses **Cosine Similarity** to find similarities between movies and recommend the most similar ones.
 
+## DEMO
+![Movie Recommender Working Demo](https://github.com/user-attachments/assets/cf05c4ae-cc77-4264-a29d-6f8aff1874b0)
+
+
 ## Project Overview
 
 The system allows users to input a movie title, and it will recommend 5 movies with similar content. The recommendations are shown with their titles and movie posters. This recommender system leverages the `Cosine Similarity` technique to measure the similarity between movies based on their features.
